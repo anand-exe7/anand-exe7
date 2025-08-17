@@ -28,12 +28,12 @@
 
 ## 📫 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)]([[https://www.linkedin.com/in/YOUR-LINKEDIN-ID](https://www.instagram.com/_.anand0/?next=%2F)](https://www.linkedin.com/in/anandsivarams/)) 
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F)]([https://www.instagram.com/YOUR-INSTAGRAM-ID](https://www.instagram.com/_.anand0/?next=%2F))  
-[![Gmail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:YOURMAIL@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/anandsivarams/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/_.anand0/)
+[![Gmail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:anandsiva0317@gmail.com)  
 
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anandsivarams/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anandsivarams/" height="30" width="40" /> - Anand Sivaram S</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/anandsivarams/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anandsivarams/" height="30" width="40" /></a>
 <a href="https://instagram.com/_.anand0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.anand0" height="30" width="40" /></a>
 </p>
 
