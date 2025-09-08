@@ -7,7 +7,6 @@
 
 ## 💡 About Me
 - 🌱 Currently learning **React, JavaScript, and TypeScript**
-- 📘 Exploring **Data Structures & Algorithms (DSA)** side-by-side
 - ☁️ Building skills in **AI + Cloud Computing**
 - 💻 Interested in developing **real-world projects** that combine cloud and AI
 - 🎯 Goal: To become a **s-killed software engineer** and contribute to impactful open-source projects
