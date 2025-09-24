@@ -1,6 +1,6 @@
 
 <h1 align="center">Hii There👋, It's Anand Sivaram S</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer</h3>
 <h3 align="center"> This repository will be the starting point for my coding journey — where I experiment, learn, and share projects </h3>
 
 
@@ -9,14 +9,14 @@
 - 🌱 Currently learning **React, JavaScript, and TypeScript**
 - ☁️ Building skills in **AI + Cloud Computing**
 - 💻 Interested in developing **real-world projects** that combine cloud and AI
-- 🎯 Goal: To become a **s-killed software engineer** and contribute to impactful open-source projects
+- 🎯 Goal: To become a **software engineer** and contribute to impactful open-source projects
 - ⚡ Fun fact : I know to code !
 
 
 ## 🛠️ Tech Stack
 - **Languages**: C, C++, Python, Java.
-- **Frontend**: HTML, CSS, React , Javascript.
-- **Cloud & AI (Learning)**: AWS, Machine Learning Basics  
+- **Frontend**: HTML, CSS, Javascript , React .
+- **Database**: MySql , MongoDB. 
 - **Tools**: Git, GitHub
 
  ## Languages and Tools
