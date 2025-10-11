@@ -32,24 +32,19 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:anandsiva0317@gmail.com)  
 
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anandsivarams/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anandsivarams/" height="30" width="40" /></a>
-<a href="https://instagram.com/_.anand0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.anand0" height="30" width="40" /></a>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=anand-exe7&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anand-exe7" alt="anand-exe7" /></a> </p>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=anand-exe7&theme=outrun&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=anand-exe7&theme=outrun&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anand-exe7&theme=outrun&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anand-exe7&show_icons=true&locale=en&layout=compact" alt="anand-exe7" /></p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anand-exe7&show_icons=true&locale=en" alt="anand-exe7" /></p>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anand-exe7&label=Profile%20views&color=0e75b6&style=flat" alt="anand-exe7" /> </p>
-
-
-⭐️ Feel free to **star** this repo to follow my journey!
----
 
 
 
