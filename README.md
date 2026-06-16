@@ -20,7 +20,7 @@
 
 <div align="center">
 
-### 💼 SWE Intern @ Kalerya · Tata Communications
+### 💼 SWE Intern @ Kaleyra · Tata Communications
 ### 💼 SWE Intern @ Cenexa Systems
 *Cloud Infrastructure · Kubernetes · Go*
 
